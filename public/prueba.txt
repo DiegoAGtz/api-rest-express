@@ -1,0 +1,3 @@
+Este es un archivo de prueba estático.
+Debiste haber accedido a la ruta:
+	localhost:puerto/prueba.txt

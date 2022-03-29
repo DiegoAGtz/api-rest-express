@@ -1,0 +1,1 @@
+Creamos diferentes configuraciones para utilizar el sitio dependiendo de lo que necesitemos (Depuración, producción, etc.)
